@@ -38,7 +38,7 @@ DuelGame is a complete 1v1 player-versus-player duel system built in Unity with 
 ### Project Links
 
 **Code Repository:**
-- [GitHub/Project Link](https://github.com/user/DuelGame) *(add link after pushing)*
+- [GitHub Repository](https://github.com/bonknollie/DuelGame)
 
 **Build/Playable:**
 - [Itch.io / Build Link](https://itch.io) *(add link after building)*
